@@ -42,3 +42,6 @@ code soft
 ├── todo_list.py
 ├── tasks.json
 └── README.md
+## Screenshot
+
+![To-Do List Application](todo-list-screenshot.png)
