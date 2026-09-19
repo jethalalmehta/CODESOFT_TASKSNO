@@ -1,6 +1,6 @@
 # To-Do List Application
 
-A simple GUI-based To-Do List application built using Python and Tkinter.
+This is a simple GUI-based To-Do List application created using Python and Tkinter.
 
 ## Features
 
@@ -22,26 +22,16 @@ A simple GUI-based To-Do List application built using Python and Tkinter.
 ## How to Run
 
 1. Install Python.
-2. Download or clone this repository.
-3. Open the project folder in a terminal.
-4. Run:
+2. Download this repository.
+3. Open the project folder.
+4. Run the following command:
 
-```bash
 python todo_list.py
 
-This project was created as part of my CodeSoft Python internship.
-
-
-Save it.
-
-Your folder should now contain something like:
-
-```text
-code soft
-│
-├── todo_list.py
-├── tasks.json
-└── README.md
 ## Screenshot
 
 ![To-Do List Application](todo-list-screenshot.png)
+
+## Internship
+
+This project was created as part of my CodeSoft Python internship.
