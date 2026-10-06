@@ -1,37 +1,51 @@
-# To-Do List Application
+# CodeSoft Task 2 - Simple Calculator
 
-This is a simple GUI-based To-Do List application created using Python and Tkinter.
+## Description
 
-## Features
+This project is a simple calculator created using Python.
 
-- Add tasks
-- Update tasks
-- Delete tasks
-- Complete and undo tasks
-- Clear all tasks
-- Save tasks
-- Load saved tasks
-- Track total and completed tasks
+It allows the user to:
+
+- Enter two numbers
+- Perform basic arithmetic operations
+- Display the result
+- Perform multiple calculations
+- Handle invalid number input
+- Handle division by zero
+
+## Operations
+
+The calculator supports:
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Remainder (%)
+- Power (**)
 
 ## Technologies Used
 
 - Python
-- Tkinter
-- JSON
 
 ## How to Run
 
-1. Install Python.
-2. Download this repository.
-3. Open the project folder.
-4. Run the following command:
+1. Make sure Python is installed.
+2. Open the project folder in a terminal.
+3. Run:
 
-python todo_list.py
+```bash
+python calculator.py
+```
+
+4. Enter two numbers.
+5. Choose an operation.
+6. The calculator will display the result.
 
 ## Screenshot
 
-![To-Do List Application](todo-list-screenshot.png)
+![Simple Calculator]c:\Users\01tar\Pictures\Screenshots\calculator-screenshot.png
 
 ## Internship
 
-This project was created as part of my CodeSoft Python internship.
+This project was created as part of my CodeSoft Python Internship.
